@@ -1,2 +1,2 @@
 # My_Project
-My_projet_repo
+My_projet repo for project description
